@@ -1,0 +1,2 @@
+unmap x
+map <a-x> removeTab
